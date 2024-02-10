@@ -23,7 +23,8 @@ header, header nav{
 header a{
     background: rgb(34, 31, 31);
     text-decoration: none;
-    padding-left: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .logo{
